@@ -1,0 +1,9 @@
+pillow
+opencv-python
+keras
+fastapi
+uvicorn
+scikit-learn
+werkzeug
+tensorflow
+python-multipart
